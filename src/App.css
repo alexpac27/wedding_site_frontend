@@ -6,6 +6,12 @@
 
 .App-header {
   background-color: rgb(247, 226, 226);
+  /* background-image: url(https://i.postimg.cc/mrFnWH5T/david-liceaga-Skb-SJte68-N0-unsplash.jpg); */
+  background-image: url(https://i.postimg.cc/0jm56jjv/scott-tobin-Qnkl-HIm-DQf-E-unsplash.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
